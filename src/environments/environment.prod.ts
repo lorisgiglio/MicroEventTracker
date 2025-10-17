@@ -1,7 +1,7 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyBLSvMWu-7TejMLYaubJYi0Z7TdNSbWdpI",
+    apiKey: "",
     authDomain: "micro-event-tracker.firebaseapp.com",
     projectId: "micro-event-tracker",
     storageBucket: "micro-event-tracker.firebasestorage.app",
