@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="2513416026465873829" datatype="html">
+        <source> Dettagli evento </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/event-card/event-card.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5923041569817566400" datatype="html">
+        <source>Categoria</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/event-list/event-list.component.ts</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2559472131038020017" datatype="html">
+        <source>Città</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/event-list/event-list.component.ts</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="423316763161481107" datatype="html">
+        <source>Micro Event Tracker</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="309021515737959804" datatype="html">
+        <source>HOME</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.ts</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2100385330871582929" datatype="html">
+        <source>LISTA</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/navbar/navbar.component.ts</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8719390545397135814" datatype="html">
+        <source> Scopri tutti gli eventi locali per data e zona, filtrali per categoria e città, e trova l&apos;evento perfetto vicino a te! </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.component.ts</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8377896815336457792" datatype="html">
+        <source> Vai agli eventi </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/home/home.component.ts</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
